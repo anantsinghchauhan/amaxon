@@ -1,0 +1,1 @@
+export { setProducts, selectedProduct, removeSelectedProduct } from './ProductAction';
