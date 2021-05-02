@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/amaxon/static/js/main.90e1c227.chunk.js",
+    "main.js.map": "/amaxon/static/js/main.90e1c227.chunk.js.map",
+    "runtime-main.js": "/amaxon/static/js/runtime-main.df2b8146.js",
+    "runtime-main.js.map": "/amaxon/static/js/runtime-main.df2b8146.js.map",
+    "static/js/2.e3bc5124.chunk.js": "/amaxon/static/js/2.e3bc5124.chunk.js",
+    "static/js/2.e3bc5124.chunk.js.map": "/amaxon/static/js/2.e3bc5124.chunk.js.map",
+    "static/js/3.1fac21b1.chunk.js": "/amaxon/static/js/3.1fac21b1.chunk.js",
+    "static/js/3.1fac21b1.chunk.js.map": "/amaxon/static/js/3.1fac21b1.chunk.js.map",
+    "index.html": "/amaxon/index.html",
+    "static/js/2.e3bc5124.chunk.js.LICENSE.txt": "/amaxon/static/js/2.e3bc5124.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df2b8146.js",
+    "static/js/2.e3bc5124.chunk.js",
+    "static/js/main.90e1c227.chunk.js"
+  ]
+}
